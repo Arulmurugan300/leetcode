@@ -15,3 +15,13 @@ function printNonReapeatingChar(word) {
   }
 }
 console.log(printNonReapeatingChar("SWIWSSI"));
+
+function findDuplicate(input){
+obj = {};
+  for(let i=0; i < input.length; i++){
+    for(let j=i+1; j < input.length; j++){
+
+    }
+  }
+
+}
