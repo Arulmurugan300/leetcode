@@ -10,7 +10,7 @@ function pivot (input){
 
   }
   return -1;
-}
+};
 console.log(pivot(nums));
 
 // Example 1:
