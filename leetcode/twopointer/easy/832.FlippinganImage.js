@@ -7,4 +7,4 @@ var flipAndInvertImage = function (image) {
     }
     return image;
 };
-flipAndInvertImage([1, 0, 0], [0, 1, 0], [0, 0, 0])
+flipAndInvertImage([1, 0, 0], [0, 1, 0], [0, 0, 0]);
